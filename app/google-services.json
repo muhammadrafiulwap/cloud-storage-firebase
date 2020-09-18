@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "109175823238",
+    "firebase_url": "https://cloudstoragefirebase-53108.firebaseio.com",
+    "project_id": "cloudstoragefirebase-53108",
+    "storage_bucket": "cloudstoragefirebase-53108.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109175823238:android:a37529301f587e666cea07",
+        "android_client_info": {
+          "package_name": "com.udacoding.cloudstoragefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109175823238-heto3e51k5mfpakit1qjm3f3v9mkguqq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6A3hXt7Q3YOPD1X8RZZYgk_OQwy2wvVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109175823238-heto3e51k5mfpakit1qjm3f3v9mkguqq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
